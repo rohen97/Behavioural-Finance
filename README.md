@@ -3,9 +3,9 @@ Simulated consumption growth and calculate equilibrium values of the dividend-pr
 
 
 
-# Consider a Barberis, Huang and Santos (2001) economy with the following parameter choices 
-# for the investor's utility function:
-# delta = 0.99, gamma = 1, lambda = 2
+Consider a Barberis, Huang and Santos (2001) economy with the following parameter choices 
+for the investor's utility function:
+delta = 0.99, gamma = 1, lambda = 2
 
 Consumption growth has a lognormal distribution:
 ln(g) = 0.02 +0.02*epsilon
